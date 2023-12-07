@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aislyndev
 - 👀  I am a computer engineering graduate.I develop software with java, .net, react..
 - 🌱 I’m currently learning python and machine learning ,ai engineering ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 aislyndev/aislyndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
