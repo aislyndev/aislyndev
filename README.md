@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aislyndev
+- 👋 Hi, I’m Ayşenur
 - 👀  I am a computer engineering graduate.I develop software with java, .net, react..
 - 🌱 I’m currently learning python and machine learning ,ai engineering ...
 
